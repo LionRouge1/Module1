@@ -6,7 +6,7 @@
 
 ![screenshot](images/Module.png)
 
-Setup and mobile version skeloton
+Set up a "Hello Microverse" project
 
 ## Built With
 
